@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/Tech Test Xhockware/api/node_modules
+api/node_modules
 # testing
 /coverage
 
