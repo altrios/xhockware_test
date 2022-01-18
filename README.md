@@ -1,3 +1,15 @@
+step #1
+    Go to the folder "Tech Test Xhockware\api" 
+
+step #2
+    Open the console and run "npm start" to initiate the server api
+
+step #3
+    Go back to the "Xhockware_test" test folder 
+
+step #4
+    Open the console and run "npm start" to intiate the react server    
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
